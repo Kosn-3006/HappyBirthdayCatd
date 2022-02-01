@@ -37,4 +37,4 @@
 
 
     </RelativeLayout>
-    ![alt text](img/int.png)
+
